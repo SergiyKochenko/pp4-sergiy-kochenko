@@ -1,0 +1,22 @@
+.delete-booking-page {
+    background: url("https://res.cloudinary.com/dvbhrs1gf/image/upload/v1678539342/DSC_1016_gryqzg.jpg") center center / cover no-repeat fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-decoration: none;
+}
+
+.delete-booking-contain {
+    margin: 0 auto;
+    background-color: #312E38;
+    opacity: 0.9;
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+}
+
+.delete-card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
